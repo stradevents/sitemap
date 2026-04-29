@@ -1,4 +1,6 @@
 https://www.stradevents.com/
+https://www.stradevents.com/home
+https://www.stradevents.com/shop
 https://www.stradevents.com/about
 https://www.stradevents.com/contactus
 https://www.stradevents.com/privacy
