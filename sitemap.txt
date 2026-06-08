@@ -1,5 +1,4 @@
 https://www.stradevents.com/
-https://www.stradevents.com/home
 https://www.stradevents.com/shop
 https://www.stradevents.com/about
 https://www.stradevents.com/contactus
@@ -7,10 +6,10 @@ https://www.stradevents.com/privacy
 https://www.stradevents.com/sell-av-gear
 https://www.stradevents.com/we-buy-barco
 https://www.stradevents.com/we-buy-christie
+https://www.stradevents.com/we-buy-epson
 https://www.stradevents.com/we-buy-l-acoustics
 https://www.stradevents.com/we-buy-led-walls
 https://www.stradevents.com/we-buy-panasonic
 https://www.stradevents.com/we-buy-pro-audio
 https://www.stradevents.com/we-buy-projectors
-https://www.stradevents.com/what-we-buy
 https://www.stradevents.com/av-gear-lot-disposition
